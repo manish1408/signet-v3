@@ -285,7 +285,7 @@ header{
     z-index: 1;
 }
 .banner-section-outer .banner-section .banner-section-content h1{
-    font-size: 110px;
+    font-size: 90px;
     line-height: 120px;
     margin-bottom: 25px;
     color: var(--e-global-color-white);
