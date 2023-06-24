@@ -401,6 +401,7 @@ header{
     border-radius: 20px;
     position: relative;
     z-index: 1;
+    height: 239px;
 }
 .statistics_section .statistics_box .span_wrapper {
     margin-bottom: 10px;
