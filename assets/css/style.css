@@ -1258,7 +1258,6 @@ header {
   background-color: var(--e-global-color-black);
   padding-top: 140px;
   overflow: hidden;
-  margin-top: -300px;
 }
 .middle-portion {
   margin-bottom: 82px;
@@ -2086,10 +2085,10 @@ header {
 }
 
 .usecases-video iframe {
-    height: 260px;
-    width: 100%;
-    padding: 15px;
-    border-radius: 25px;
+  height: 260px;
+  width: 100%;
+  padding: 15px;
+  border-radius: 25px;
 }
 
 /* .usecases-video .col-4 {
@@ -2104,7 +2103,18 @@ header {
   z-index: 1;
 } */
 .iframe-youtube-homder {
-    background: #2a2a35;
-    border-radius: 25px;
+  background: #2a2a35;
+  border-radius: 25px;
+}
 
+.video-element {
+  border-radius: 20px;
+  object-fit: contain;
+  width: 90%;
+}
+
+.who_we_are_image.extend-user {
+  width: 150%;
+  margin-top: 2rem;
+  margin-left: -10rem;
 }
