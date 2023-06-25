@@ -2118,3 +2118,7 @@ header {
   margin-top: 2rem;
   margin-left: -10rem;
 }
+
+.services_box img {
+  width: 86px;
+}
