@@ -713,7 +713,7 @@ header {
   color: var(--e-global-color-light-grayish-blue);
 }
 .who_we_are_section .who_we_are_image {
-  left: 0;
+  left: 125px;
   right: 0;
   bottom: 0;
   margin: 0 auto;
@@ -754,10 +754,11 @@ header {
   padding-top: 190px;
   position: relative;
   z-index: 1;
+  padding-left: 61px;
 }
 .who_we_are_section .who_we_are_right_content .who_we_are_rightside {
   display: inline-block;
-  width: 44%;
+  width: 57%;
 }
 .who_we_are_section .who_we_are_right_content .who_we_are_rightside span {
   font-family: "Montserrat", sans-serif;
